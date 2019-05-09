@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^1.19.0"
-  }
+  },
+  "main": "test1.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielamcortes/test_front_end.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielamcortes/test_front_end/issues"
+  },
+  "homepage": "https://github.com/danielamcortes/test_front_end#readme"
 }

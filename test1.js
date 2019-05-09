@@ -6,6 +6,12 @@
 // Tests
 console.log('TESTS', new Date().toISOString())
 console.log('---'.repeat(20));
+
+sumToBinary = (num1, num2) => {
+    let number = num1 + num2;
+    return number.toString(2);
+}
+
 console.log(
     typeof sumToBinary !== 'undefined',
     'La función sumToBynary existe.')
